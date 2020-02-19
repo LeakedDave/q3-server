@@ -1,3 +1,3 @@
 var shell = require('shelljs');
 
-shell.exec('./q3ded');
+shell.exec(__dirname + '/q3ded');
