@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "sh q3ded"
+    "start": "./q3ded"
   },
   "dependencies": {
     "ejs": "^2.5.6",
